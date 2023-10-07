@@ -1,6 +1,8 @@
 # Jogo de Ping Pong em Java
 
 
+![Screencast-from-07-10-2023-17_03_31](https://github.com/jwlds/GamePingPongJava/assets/104650587/f60ff755-dd04-49be-9564-95c341d7118b)
+
 
 Este é um jogo de Ping Pong simples criado em Java. É um projeto de demonstração para ilustrar a criação de um jogo de Ping Pong básico usando Java e Swing.
 
